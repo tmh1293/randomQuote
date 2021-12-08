@@ -1,0 +1,14 @@
+.Tag-Item {
+    padding: 5px;
+    background-color:white;
+    margin-left:2px;
+    cursor:pointer;
+}
+
+.Tag-Item:hover {
+    background-color:red;
+}
+
+.Tag-Item.active  {
+    background-color:yellow;
+}
